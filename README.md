@@ -2,7 +2,7 @@
 
 A partial Godot engine port to the Nintendo DS. Currently it is just a fun concept and it is not functional at all. Made with passion, blood, sweat, and tedious repetitive tasks.
 
-
+![Godot DS Banner](https://github.com/charmquirk/godot-ds/blob/main/Concept/Godot%20DS%20Banner.png)
 
 #### Controls
 
@@ -20,8 +20,8 @@ A partial Godot engine port to the Nintendo DS. Currently it is just a fun conce
 
 * **Bottom screen**: Keyboard mode, remote mouse pad mode where it controls a cursor on the top screen, and touchscreen mode where you interact with the screen directly.
 * **Top screen**: View multiple lines of the current script, 
-
-
+![Edit Script Concept Image](https://github.com/charmquirk/godot-ds/blob/main/Concept/Godot%20DS%20-%20Scripts%20Preview.png)
+![Run Program Concept Image](https://github.com/charmquirk/godot-ds/blob/main/Concept/Godot%20DS%20-%20Run%20Preview.png)
 
 #### Disclaimer
 
