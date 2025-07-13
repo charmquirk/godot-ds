@@ -1,7 +1,7 @@
 # godot-ds
 
 A partial Godot engine port to the Nintendo DS. Currently it is just a fun concept and it is not functional at all. Made with passion, blood, sweat, and tedious repetitive tasks.
-
+![Godot DS App Icon](https://github.com/charmquirk/godot-ds/blob/main/Concept/Godot%20DS%20App%20Icon.png)
 ![Godot DS Banner](https://github.com/charmquirk/godot-ds/blob/main/Concept/Godot%20DS%20Banner.png)
 
 #### Controls
